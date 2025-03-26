@@ -75,8 +75,5 @@ python model_F.py
 - Incorporate real-time anomaly detection methods.
 - Fine-tune hyperparameters for optimized model performance.
 
-## Contributors
-- **Sunkanmi** - Project Lead & Data Scientist
-
-For further inquiries, please contact [Sunkanmi](mailto:contact@yourdomain.com).
+For further inquiries, please contact [Sunkanmi](mailto:tojoshua0527@gmail.com).
 
